@@ -1,0 +1,3 @@
+Belajar Python lagi
+Belajar Machine Learning
+Belajar Git & Github
